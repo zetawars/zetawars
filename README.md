@@ -7,11 +7,7 @@ I'm an full-stack developer. I have 7+ years of industry experience in Web / Clo
 ---
 
 ### Technologies
-<style>
-    .tech{
-       
-    }
-</style>
+
 <img align="left" alt="CSharp" style=" width: 25px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img  align="left" style=" width: 25px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" style=" width: 25px; padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
