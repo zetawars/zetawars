@@ -39,6 +39,9 @@ I'm an full-stack developer. I have 7+ years of industry experience in Web / Clo
 <br />
 
 
+<a href="https://www.linkedin.com/in/zetawars/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/7716341/zetawars"><img src="https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> 
+<a href="mailto:zetawars@hotmail.com">
+<img src="https://shields.io/badge/email-black?logo=&style=for-the-badge" height=30 style="position:absolute; margin-top:-2px;padding-left:4px " ></a>
 
 ![zetawars GitHub stats](https://github-readme-stats.vercel.app/api?username=zetawars&show_icons=true&theme=dracula)
 
