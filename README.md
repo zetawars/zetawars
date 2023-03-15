@@ -2,7 +2,7 @@
 
 **Senior Fullstack Developer - Team Lead (Javascript and C#)**
 
-I'm an full-stack developer. I have 7+ years of industry experience in Web / Cloud technologies. Experienced in Web Technologies like Angular/Vue/React, ASP.NET/.NET Core/.NET 5&6, Blazor, Bootstrap, HTML, ASP.NET MVC, APIs, JavaScript, Typescript, Databases, Web Scrapping, Automation, Microservices, Azure, Serverless, microservices, DevOps etc. Love new challenges and never fails to deliver.
+I'm an full-stack developer. I have 7+ years of industry experience in Web / Cloud technologies. Experienced in Web Technologies like Angular/Vue/React, ASP.NET/.NET Core/.NET 5&6, Blazor, Bootstrap, HTML, ASP.NET MVC, APIs, JavaScript, Typescript, Databases, Web Scrapping, Automation, Microservices, Azure, Serverless, microservices, DevOps etc. Love new challenges and never fail to deliver.
 
 ---
 
