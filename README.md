@@ -43,5 +43,5 @@ I'm an full-stack developer. I have 7+ years of industry experience in Web / Clo
 <a href="mailto:zetawars@hotmail.com">
 <img src="https://shields.io/badge/email-black?logo=&style=for-the-badge" height=30 style="position:absolute; margin-top:-2px;padding-left:4px " ></a>
 
-![zetawars GitHub stats](https://github-readme-stats.vercel.app/api?username=zetawars&show_icons=true&theme=dracula)
+![zetawars GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zetawars&show_icons=true&theme=dracula)
 
